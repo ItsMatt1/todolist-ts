@@ -1,2 +1,5 @@
-# todolist-ts
-Archived Todo List app built in 2022, preserved for reference.
+# AppTodo
+
+This is a test for my app Todo List deploy on github page, its working on:
+
+``https://itsmatt1.github.io``
